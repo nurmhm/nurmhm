@@ -1,6 +1,6 @@
+![I am Web developer and daily learner](https://media.licdn.com/dms/image/v2/D4E16AQH_o1ljy1xL_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737127261254?e=1742428800&v=beta&t=aS4Wwb83ccSETp6-TySGSiq-1xFRQ6gaoTQ565LhKxM)
 ### Assalamulaikum 👋, my name is Nur Mohammad
 #### I am Web developer and daily learner
-![I am Web developer and daily learner](https://media.licdn.com/dms/image/v2/D4E16AQH_o1ljy1xL_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737127261254?e=1742428800&v=beta&t=aS4Wwb83ccSETp6-TySGSiq-1xFRQ6gaoTQ565LhKxM)
 
 I’m also skilled in:
 
