@@ -2,7 +2,7 @@
 
 # Assalamu Alaikum 👋 I'm Nur Mohammad
 
-## 💻 Front-End Developer | 🌱 Daily Learner | ⚡ Tech Enthusiast
+## 💻 WEb Developer | 🌱 Daily Learner | ⚡ Tech Enthusiast
 
 I'm passionate about building **clean**, **scalable**, and **user-friendly** web applications.  
 Currently working on real-world projects using **React**, **Next.js**, **Tailwind CSS**, **TypeScript**, and **Django REST**.
