@@ -1,8 +1,9 @@
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQH_o1ljy1xL_w/profile-displaybackgroundimage-shrink_350_1400/0/1737127261254?e=1742428800&v=beta&t=aS4Wwb83ccSETp6-TySGSiq-1xFRQ6gaoTQ565LhKxM)
+![Profile Banner](https://i.postimg.cc/MZNKyhKg/Facebook-Cover-Nur-Mohammad-Akash.png)
+)
 
 # Assalamu Alaikum 👋 I'm Nur Mohammad
 
-## 💻 WEb Developer | 🌱 Daily Learner | ⚡ Tech Enthusiast
+## 💻 Web Developer | 🌱 Daily Learner | ⚡ Tech Enthusiast
 
 I'm passionate about building **clean**, **scalable**, and **user-friendly** web applications.  
 Currently working on real-world projects using **React**, **Next.js**, **Tailwind CSS**, **TypeScript**, and **Django REST**.
@@ -30,7 +31,7 @@ Currently working on real-world projects using **React**, **Next.js**, **Tailwin
 
 ### 💼 Current Role
 
-- **Front-End Developer** at [Trodad International](#) (May 2025 – Present)  
+- **Web Developer** at [Trodad International](#) (May 2025 – Present)  
   Working on a scalable HealthTech platform using **React**, **Next.js**, **Tailwind**, and **TanStack** libraries.  
   Integrating dynamic features with **Django REST APIs** and building reusable components.
 
@@ -42,9 +43,9 @@ Currently working on real-world projects using **React**, **Next.js**, **Tailwin
   🛠️ `Next.js`, `Django`, `Tailwind CSS`, `TypeScript`  
   🔗 [Live Site](https://trio-beam-boi-zaar.vercel.app)
 
-- **RAJSEBA** – Home service booking platform  
+- **Feroza** – E-commerce platform  
   🛠️ `Next.js`, `Tailwind CSS`, `TypeScript`  
-  🔗 [Live Site](https://rajseba.com)
+  🔗 [Live Site](https://feroza.com.bd/)
 
 - **StudyBuddyHub** – Group study & assignment management  
   🛠️ `React`, `Node.js`, `Express`, `MongoDB`  
@@ -89,7 +90,7 @@ Currently working on real-world projects using **React**, **Next.js**, **Tailwin
 
 ### 📌 About Me
 
-- 💼 Front-End Developer @ **Trodad International**
+- 💼 Web Developer @ **Trodad International**
 - 🌱 Learning: TypeScript, Python, Plugin Development
 - 🧩 Always exploring, building, and sharing
 - 🤝 Open to freelance, open-source, and learning collaborations
@@ -97,4 +98,4 @@ Currently working on real-world projects using **React**, **Next.js**, **Tailwin
 ---
 
 > _"I specialize in crafting intuitive and efficient web solutions that merge creativity with functionality."_  
-> — Nur Mohammad
+> — Nur Mohammad Akash
