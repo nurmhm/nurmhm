@@ -1,7 +1,7 @@
 <!-- ===================== ANIMATED BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=260&text=Hi%20👋%20I%27m%20Shazed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20developer%20from%20Bangladesh&descAlignY=58&descAlign=70&descItalic=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=260&text=Hi%20👋%20I%27m%20Shazed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20developer%20from%20Bangladesh&descAlignY=58&descAlign=70&descItalic=true](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Assalamu%20Alaikum%20👋%20I'm%20Nur&fontAlign=43&fontSize=46&animation=fadeIn&rotate=0&descAlign=45&section=footer&reversal=false)" />
 </p>
 
 <!-- <p align="center">
