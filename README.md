@@ -8,6 +8,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" width="20" alt="Bangladesh Flag" />
 </p> -->
 
+hello
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Programmer+%7C+Developer;React+%7C+JavaScript+%7C+MERN;Building+Modern+Web+Apps;Always+Learning+New+Things" />
 </h3>
