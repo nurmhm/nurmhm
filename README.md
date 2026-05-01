@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" width="20" alt="Bangladesh Flag" />
 </p> -->
 
-hello
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Programmer+%7C+Developer;React+%7C+JavaScript+%7C+MERN;Building+Modern+Web+Apps;Always+Learning+New+Things" />
@@ -31,8 +31,8 @@ hello
 ---
 
 ## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nurAkas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nurmd7228/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashraf.shazed@gmail.com) 
- <img src="https://komarev.com/ghpvc/?username=Shazed94&label=Profile+Views&color=00F7FF&style=flat-square"/>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nurAkas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nurmd7228/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurmhm.dev@gmail.com) 
+ <img src="https://komarev.com/ghpvc/?username=nurmhm&label=Profile+Views&color=00F7FF&style=flat-square"/>
 
 ---
 
