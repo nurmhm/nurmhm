@@ -43,60 +43,15 @@
 
 ## 📊 GitHub Stats:
 
-<!-- !-- ![](https://github-readme-stats.vercel.app/api?username=Shazed94&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shazed94&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shazed94&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) --> 
+<img src="https://streak-stats.demolab.com?user=nurmhm&theme=default&hide_border=true" alt="nurmhm's GitHub Stats" />
 
-<!-- Statistics: Commits -->
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_commits.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)">
-  <source 
-    srcset="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_commits.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)">
-  <img src="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_commits.svg#gh-dark-mode-only">
-</picture>
 
-<!-- Statistics: Programming languages -->
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/Shazed94/Shazed94/main/output/stats_langs.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)">
-  <source 
-    srcset="https://raw.githubusercontent.com/Shazed94/Shazed94/main/output/stats_langs.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)">
-  <img src="https://raw.githubusercontent.com/Shazed94/Shazed94/main/output/stats_langs.svg#gh-dark-mode-only">
-</picture>
 
-<!-- Statistics: General statistics -->
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/Shazed94/Shazed94/main/output/stats_general.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)">
-  <source 
-    srcset="https://raw.githubusercontent.com/Shazed94/Shazed94/main/output/stats_general.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)">
-  <img src="https://raw.githubusercontent.com/Shazed94/Shazed94/main/output/stats_general.svg#gh-dark-mode-only">
-</picture>
-
-<!-- Statistics: Unique repository visitors -->
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_visitors.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)">
-  <source 
-    srcset="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_visitors.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)">
-  <img src="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_visitors.svg#gh-dark-mode-only">
-</picture>
 
 ---
+<!-- ## 🐍 Contribution Snake -->
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
 
 
 ---
