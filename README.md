@@ -50,7 +50,7 @@
 <!-- Statistics: Commits -->
 <picture>
   <source 
-    srcset="https://raw.githubusercontent.com/Shazed94/Shazed94/main/output/stats_commits.svg#gh-dark-mode-only" 
+    srcset="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_commits.svg#gh-dark-mode-only" 
     media="(prefers-color-scheme: dark)">
   <source 
     srcset="https://raw.githubusercontent.com/nurmhm/nurmhm/main/output/stats_commits.svg#gh-light-mode-only" 
