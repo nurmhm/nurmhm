@@ -25,7 +25,7 @@
 - 🚀 Love building **real-world projects**
 - ⚡ Building **fast, responsive apps** with React, Next.js, and Tailwind CSS
 - ☁️ Diving deep into **cloud technologies** like AWS, Docker, and CI/CD pipelines
-- 🧠 Curious • Consistent • Creative
+- 🧠 Curious • Consistent • Creative 
 <br/>
 
 ---
